@@ -1,0 +1,47 @@
+* {
+    font-family: Arial;
+}
+
+.container1 {
+    float: left;
+    background-color: gainsboro;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.myimage {
+    height: 200px;
+    border-radius: 100px;
+    width: 200px;
+    text-align: center;
+}
+
+.waname {
+    color: rgb(8, 216, 216);
+}
+
+.line {
+    text-decoration: underline;
+    color: rgb(15, 238, 238);
+}
+
+.container2 {
+    padding-left: 400px;
+    padding-top: 40px;
+    padding-right: 250px;
+
+}
+
+span {
+    color: rgb(10, 226, 226);
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.school {
+    padding-left: 100px;
+}
+
+.education {
+    font-weight: bold;
+}
